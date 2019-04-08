@@ -1,6 +1,6 @@
 - 编程
    - [工作台] (Library/refwb.md)
-   - [机构库] (Library/IR.md)
+   - [机构库] (https://github.com/bg6cq/learngit)
    - [杂类] (Library/misc.md)
 - 攀岩
 - 合唱

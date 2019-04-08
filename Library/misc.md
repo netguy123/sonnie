@@ -1,8 +1,3 @@
----
-title: "杂类"
-layout: page
----
-
 ## vCenter里的ehuixue for LUG ##
 * [ ] VMKernels 不放在分布式交换机 Distributed vSwitch 上（高一凡建议）
 * [ ] 每台虚机增加 666 网卡
