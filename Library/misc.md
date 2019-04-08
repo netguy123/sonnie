@@ -1,9 +1,9 @@
-## vCenter里的ehuixue for LUG ##
+## vCenter里的ehuixue for LUG
 * [ ] VMKernels 不放在分布式交换机 Distributed vSwitch 上（高一凡建议）
 * [ ] 每台虚机增加 666 网卡
 * [ ] 堡垒机有开源的方案 密钥 teleport
 
-## 杂类(从滴答清单里拷贝出来) ##
+## 杂类(从滴答清单里拷贝出来)
 * [ ] 邮件群发应当发送到守护进程里，并允许读者退订
 * [ ] 质性研究 vs 量化研究，本科生教学、科研工作者的困境
 * [ ] 汇文RAC HA
