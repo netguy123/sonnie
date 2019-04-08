@@ -3,6 +3,7 @@
 ## WOS
 
 ### 前端
+
 - [ ] 引文清单切换显示 总引、自引、宽松和严格他引
 - [ ] 标题样式修改，TC/[实际引文数] 上传按钮
 - [ ] Not found 后加入上传按钮
@@ -75,6 +76,7 @@
 - [ ] @app: 联合article和reference，读取某个ut_orig对应的引文的作者和ref_id
 
 ### 后台
+
 - [ ] 根据last_update同步更新科大的文章
 - [ ] Ei、CSCD文章单篇下载
 - [ ] 测试直接根据truecount判断是否需要更新
@@ -112,6 +114,7 @@
 - [ ] ut-edition对应关系保存在indexes表，其中键id=(ut,edition)保证唯一性。同理reference2。
 
 == CSCD
+
 - [ ] 把devel上的cscd代码移植过来
 - [ ] 上传文件自动检测编码
 

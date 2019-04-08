@@ -20,6 +20,7 @@
 - [ ] 右侧显示该库的文章清单。未关联的，未加入总表的，以颜色区分
 
 == EI
+
 - [ ] 上传pdf（detailed格式），得到downloaded time和收录号，与作者绑定（事先建好表），并标记为：已收录&上次收录时间
 - [ ] 触发式查询收录情况（或者每半年定时更新）。如果仍然收录，则修改收录时间；否则修改为未收录。有可能题名不变而收录号改变，所以要给出链接。
 - [ ] 从Ei中，根据检索式+Language=Chinese，导出某种格式，要包含DOI、Title、ISSN、Accession Number
@@ -29,6 +30,7 @@
 - [ ] 输出格式：Accession Number以及Citation，要能显示Detail
 
 == 软件
+
 DSpace安装和配置 https://wiki.duraspace.org/display/DSDOC5x/Installing+DSpace
 1. 让tomcat以dspace用户运行：创建dspace用户，并加入tomcat组，然后在tomcat的启动脚本里写入 TOMCAT_USER="dspace"
 2. 要安装oracle instantclient，然后在mvn install:install-file -Dfile=<绝对路径>/ojdbc6.jar -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.4.0 -Dpackaging=jar -DgeneratePom=true
